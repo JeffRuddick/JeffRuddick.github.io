@@ -1,3 +1,5 @@
+![Compound AR Logo](Compound AR Logo1.png)
+
 #header1
 Test123
 
