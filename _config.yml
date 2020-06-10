@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: Jeff Ruddick
 description: Fun With Augmented Reality
-markdown: CommonMark
+markdown: kramdown
 highlighter: rouge
