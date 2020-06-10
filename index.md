@@ -1,6 +1,6 @@
 ![Compound AR Logo](Compound AR Logo1.png)
 
-## __An ArKit App designed for financial education__ 
+## __An Augmented Reality App designed for financial education__ 
 
 ### Have you ever dreamed about stacking up a million dollars on your kitchen counter?  
 
