@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 title: Jeff Ruddick
-description: Information on the CompoundAR app project.
-markdown: GFM
+description: Fun With Augmented Reality
+markdown: kramdown
+highlighter: rouge
