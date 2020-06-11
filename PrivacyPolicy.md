@@ -1,4 +1,4 @@
-[Return to Compound AR Project Info]()
+[Return to Compound AR Project Info](index.md)
 
 **Privacy Policy**
 
