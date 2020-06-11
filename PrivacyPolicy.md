@@ -1,3 +1,5 @@
+[Return to Compound AR Project Info]()
+
 **Privacy Policy**
 
 Jeff Ruddick built the Compound AR app as a Free app. This SERVICE is provided by Jeff Ruddick at no cost and is intended for use as is.
