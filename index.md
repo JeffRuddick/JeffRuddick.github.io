@@ -13,7 +13,6 @@ To get started, enter in any investment scenario you want to test out.  This inc
 * Visualize compound growth in augmented reality (Apple ARKit)
 * View large sums of money in a real word setting.  
 
-[Privacy Policy](PrivacyPolicy.md)
 
 ![Compound AR Screenshot](Compound AR1.jpeg)
 
@@ -21,5 +20,7 @@ To get started, enter in any investment scenario you want to test out.  This inc
 
 ![Compound AR Screenshot](Compound AR3.jpeg)
 
-This project was developed in Unity and used AR Foundation, and the XR Intereation Toolkit.  
+This project was developed in Unity and used AR Foundation, and the XR Intereation Toolkit. 
+
+[Privacy Policy](PrivacyPolicy.md)
 
