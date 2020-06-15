@@ -14,12 +14,11 @@ To get started, enter in any investment scenario you want to test out.  This inc
 * View large sums of money in a real word setting.  
 
 
-![Compound AR Screenshot](Compound AR1.jpeg)
+![Exponential AR ScreenShot](Exponential AR1.jpeg)
 
-![Compound AR Screenshot](Compound AR2.jpeg)
+![Exponential AR ScreenShot](Exponential AR2.jpeg)
 
-![Compound AR Screenshot](Compound AR3.jpeg)
-
+![Exponential AR ScreenShot](Exponential AR3.jpep)
 This project was developed in Unity and used AR Foundation, and the XR Intereation Toolkit. 
 
 [Privacy Policy](PrivacyPolicy.md)
