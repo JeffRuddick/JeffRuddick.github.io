@@ -18,7 +18,7 @@ To get started, enter in any investment scenario you want to test out.  This inc
 
 ![Exponential AR ScreenShot](Exponential AR2.jpeg)
 
-![Exponential AR ScreenShot](Exponential AR3.jpep)
+![Exponential AR ScreenShot](Exponential AR3.jpeg)
 This project was developed in Unity and used AR Foundation, and the XR Intereation Toolkit. 
 
 [Privacy Policy](PrivacyPolicy.md)
