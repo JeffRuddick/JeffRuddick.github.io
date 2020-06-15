@@ -1,4 +1,4 @@
-![Compound AR Logo](Compound AR Logo1.png)
+![Exponential AR Logo](ExponentialARLogo.png)
 
 ## __An augmented reality app designed for financial education__ 
 
