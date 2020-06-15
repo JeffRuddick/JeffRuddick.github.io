@@ -9,3 +9,5 @@ jeff.ruddick@gmail.com
 
 [Return to Exponential AR Project Info](index.md)
 
+[Privacy Policy](PrivacyPolicy.md)
+
