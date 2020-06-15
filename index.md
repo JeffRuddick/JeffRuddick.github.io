@@ -23,6 +23,6 @@ This project was developed in Unity and used AR Foundation, and the XR Intereati
 
 [Privacy Policy](PrivacyPolicy.md)
 
-[Support](support.md)
+[Support](https://jeffruddick.github.io/support.html)
 
 
