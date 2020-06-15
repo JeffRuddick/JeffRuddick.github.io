@@ -7,7 +7,5 @@ I believe there is a genuine need for more education related to financial litera
 Jeff Ruddick
 jeff.ruddick@gmail.com
 
-[Return to Exponential AR Project Info](index.md)
-
-[Privacy Policy](PrivacyPolicy.md)
+[Return to Exponential AR Project Info](index.md)    [Privacy Policy](PrivacyPolicy.md)
 
