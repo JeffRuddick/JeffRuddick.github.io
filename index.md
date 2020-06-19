@@ -13,6 +13,8 @@ To get started, enter in any investment scenario you want to test out.  This inc
 * Visualize compound growth in augmented reality (Apple ARKit)
 * View large sums of money in a real word setting.  
 
+Please note that large scale visualizaitons (typically over $100 million) may cause the project to run slow or freeze.  A warning will appear on screen.
+
 
 ![Exponential AR ScreenShot](Exponential AR1.jpeg)
 
