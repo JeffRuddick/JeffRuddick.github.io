@@ -23,7 +23,8 @@ To get started, enter in any investment scenario you want to test out.  This inc
 
 ![Exponential AR ScreenShot](Exponential AR3.jpeg)
 
-[Download the Exponential AR App] (https://apps.apple.com/us/app/exponential-ar/id1518355225)
+Download the Exponential AR App
+https://apps.apple.com/us/app/exponential-ar/id1518355225
 
 This project was developed in Unity and used AR Foundation, and the XR Intereation Toolkit. 
 
