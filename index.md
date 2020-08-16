@@ -16,6 +16,7 @@ To get started, enter in any investment scenario you want to test out.  This inc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B7wGoYT28x8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ![Exponential AR ScreenShot](Exponential AR1.jpeg)
 
 ![Exponential AR ScreenShot](Exponential AR2.jpeg)
