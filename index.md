@@ -13,15 +13,21 @@ To get started, enter in any investment scenario you want to test out.  This inc
 * Visualize compound growth in augmented reality (Apple ARKit)
 * View large sums of money in a real word setting.  
 
-Please note that large scale visualizaitons (typically over $100 million) may cause the project to run slow or freeze.  A warning will appear on screen.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B7wGoYT28x8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Exponential AR ScreenShot](Exponential AR1.jpeg)
 
 ![Exponential AR ScreenShot](Exponential AR2.jpeg)
 
 ![Exponential AR ScreenShot](Exponential AR3.jpeg)
+
+Download the Exponential AR App
+https://apps.apple.com/us/app/exponential-ar/id1518355225
+
 This project was developed in Unity and used AR Foundation, and the XR Intereation Toolkit. 
+
+Please note that large scale visualizaitons (typically over $100 million) may cause the project to run slow or freeze.  A warning will appear on screen.
 
 [Privacy Policy](PrivacyPolicy.md)
 
