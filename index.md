@@ -8,13 +8,12 @@
 
 To get started, enter in any investment scenario you want to test out.  This includes the usual financial calculator variables such as principal, annual contribution, years invested, and interest rate. Click the visualize button and tap a flat surface.  Then, watch your investment grow year by year. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B7wGoYT28x8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Features 
 * Calculates compound interest 
 * Visualize compound growth in augmented reality (Apple ARKit)
 * View large sums of money in a real word setting.  
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B7wGoYT28x8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ![Exponential AR ScreenShot](Exponential AR1.jpeg)
